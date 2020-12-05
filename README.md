@@ -83,7 +83,7 @@ Download and Install Arduino IDE / Board setting
 
 5. Open your Arduino IDE, copy and paste here's code [OSU_Keyboard]
     
-    * [https://github.com/happythingsmaker/HappyKeys](https://github.com/happythingsmaker/HappyKeys)
+    * [https://github.com/Tah1on/osu_keyboard_v1](https://github.com/Tah1on/osu_keyboard_v1)
 
 6. Upload the program to your board by following this order
 
