@@ -54,13 +54,11 @@ Small keyboard with two keys on the Arduino for 3 bucks
     
     ![](img/3.png)
     
-    ![](img/4.jpg)
+    ![](img/4.png)
 
 5. Use your favorite keycaps
 
     ![](img/5.jpg)
-    
-    ![](img/6.jpg)
 
 ## Programming
 
