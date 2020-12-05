@@ -49,20 +49,18 @@ Small keyboard with two keys on the Arduino for 3 bucks
 2. Bend the legs of the switches and solder them to the wire
     
     ![](img/2.jpg)
-    
-    ![](img/3.jpg)
 
 3. Solder wire to the Attiny85
     
-    ![](img/4.jpg)
+    ![](img/3.jpg)
     
-    ![](img/5.jpg)
+    ![](img/4.jpg)
 
 5. Use your favorite keycaps
 
-    ![](img/6.jpg)
+    ![](img/5.jpg)
     
-    ![](img/7.jpg)
+    ![](img/6.jpg)
 
 ## Programming
 
