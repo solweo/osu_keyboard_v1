@@ -52,7 +52,7 @@ Small keyboard with two keys on the Arduino for 3 bucks
 
 3. Solder wire to the Attiny85
     
-    ![](img/3.jpg)
+    ![](img/3.png)
     
     ![](img/4.jpg)
 
